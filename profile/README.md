@@ -26,7 +26,7 @@ Aqui cada projeto é:
 - **Projetado para ensinar Front-End de forma intuitiva**
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/divider.gif" alt="Glitch Animation" width="70%" />
+  <img src="" alt="Glitch Animation" width="70%" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ Uma coleção crescente de microprojetos feitos para inspirar e ensinar:
 - 🟡 `Orbit Loader`, `Typing Effects`, `Pixel Experiments` e mais...
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/digital-waveframe-gif.gif" alt="SantsCoder Project Preview" width="80%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/divider.gif" alt="SantsCoder Project Preview" width="80%" />
 </p>
 
 ---
