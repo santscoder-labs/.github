@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/template-2.png" width="80%" />
 </p>
 
 ---
@@ -93,7 +93,7 @@ Todos são **cirúrgicos, diretos e didáticos**.
 
 <p align="center">
   <img src="https://github.com/santscoder-labs/assets/blob/main/template-1.png" 
-       alt="Glitch Bar" width="60%" />
+       alt="Glitch Bar" width="80%" />
 </p>
 
 <p align="center">
