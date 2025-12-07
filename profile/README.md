@@ -9,7 +9,7 @@
 <p align="center">Microprojetos visuais, animações intuitivas e experimentos criativos em HTML, CSS e JavaScript.</p>
 
 <p align="center">
-  <img src="URL-DE-UMA-IMAGEM-DECORATIVA-GLITCH" alt="Red Glitch Divider" width="60%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/divider.gif" alt="Red Glitch Divider" width="60%" />
 </p>
 
 ---
