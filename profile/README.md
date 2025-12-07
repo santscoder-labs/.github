@@ -9,7 +9,7 @@
 <p align="center">Microprojetos visuais, animações intuitivas e experimentos criativos em HTML, CSS e JavaScript.</p>
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/digital-waveform-video.mp4" alt="Red Glitch Divider" width="60%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/personagem.png" alt="Red Glitch Divider" width="60%" />
 </p>
 
 ---
