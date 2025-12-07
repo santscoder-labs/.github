@@ -5,11 +5,11 @@
 
 ---
 
-# <p align="center">SantsCoder Labs</p>
+# <p align="center">🟥 SantsCoder Labs</p>
 <p align="center">Microprojetos visuais, animações intuitivas e experimentos criativos em HTML, CSS e JavaScript.</p>
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/divider.gif" alt="Red Glitch Divider" width="60%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/digital-waveform-video.mp4" alt="Red Glitch Divider" width="60%" />
 </p>
 
 ---
@@ -26,7 +26,7 @@ Aqui cada projeto é:
 - **Projetado para ensinar Front-End de forma intuitiva**
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/matrix-rain-gif.gif" alt="Glitch Animation" width="70%" />
+  <img src="URL-DE-UMA-IMAGEM-ANIMADA-OU-GLITCH" alt="Glitch Animation" width="70%" />
 </p>
 
 ---
