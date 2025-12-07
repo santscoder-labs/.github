@@ -26,7 +26,7 @@ Aqui cada projeto é:
 - **Projetado para ensinar Front-End de forma intuitiva**
 
 <p align="center">
-  <img src="URL-DE-UMA-IMAGEM-ANIMADA-OU-GLITCH" alt="Glitch Animation" width="70%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/divider.gif" alt="Glitch Animation" width="70%" />
 </p>
 
 ---
