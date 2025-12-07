@@ -1,6 +1,6 @@
 <p align="center">
   <!-- BANNER PRINCIPAL -->
-  <img src="https://github.com/santscoder-labs/assets/blob/main/banner-santscoder.png" alt="SantsCoder404 Banner" width="100%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/Banner-Youtube.png" alt="SantsCoder404 Banner" width="100%" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 <p align="center">Microprojetos visuais, animações intuitivas e experimentos criativos em HTML, CSS e JavaScript.</p>
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/personagem.png" alt="Red Glitch Divider" width="60%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/template-2.png" alt="Red Glitch Divider" width="60%" />
 </p>
 
 ---
