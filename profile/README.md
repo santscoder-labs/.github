@@ -17,6 +17,10 @@
   <img src="https://github.com/santscoder-labs/assets/blob/main/template-2.png" width="80%" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
+</p>
+
 ---
 
 ## ➤ O que é o SantsCoder Labs?
