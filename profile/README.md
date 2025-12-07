@@ -101,11 +101,10 @@ Então o **SantsCoder Labs** é o seu lugar.
 ## 🔗 Links Importantes
 
 <p align="center">
-  <img src="URL-RED-GLOW" width="60%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/inscreva-se.png" width="60%" />
 </p>
 
 - **YouTube (SantsCoder):** https://youtube.com/@santscoder404  
-- **Portfólio:** https://portfolio-henrique.vercel.app/
 
 ---
 
