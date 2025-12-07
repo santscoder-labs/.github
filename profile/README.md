@@ -41,7 +41,7 @@ Uma coleção crescente de microprojetos feitos para inspirar e ensinar:
 - 🟡 `Orbit Loader`, `Typing Effects`, `Pixel Experiments` e mais...
 
 <p align="center">
-  <img src="URL-IMAGEM-DE-PROJETO-AQUI" alt="SantsCoder Project Preview" width="80%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/digital-waveframe-gif.gif" alt="SantsCoder Project Preview" width="80%" />
 </p>
 
 ---
