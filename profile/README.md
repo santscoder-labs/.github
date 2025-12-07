@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="70%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
 </p>
 
 <h1 align="center">SantsCoder Labs</h1>
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="70%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
 </p>
 
 ---
@@ -32,7 +32,7 @@ Aqui cada microprojeto é:
 - **Projetado para ensinar Front-End de forma intuitiva**
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="70%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ Aqui cada microprojeto é:
 </p>
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="70%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
 </p>
 
 ---
@@ -50,14 +50,14 @@ Aqui cada microprojeto é:
 
 Uma coleção em expansão de microprojetos feitos para inspirar e ensinar:
 
-- 🟥 **Red Digital Waveform** — ondas animadas com distorções glitch  
-- 🟣 **Glitch Circle Pulse** — pulsação com efeito digital  
-- 🟩 **Matrix Rain Animation** — chuva minimalista estilo Matrix  
-- 🟥 **Red Glitch Text** — texto vibrante com estética digital  
+- 🟥 **Red Digital Waveform**
+- 🟣 **Glitch Circle Pulse**
+- 🟩 **Matrix Rain Animation**
+- 🟥 **Red Glitch Text**
 - 🟡 `Orbit Loader`, `Typing Effects`, `Pixel Experiments` e mais...
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="70%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ Uma coleção em expansão de microprojetos feitos para inspirar e ensinar:
 </p>
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="70%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
 </p>
 
 ---
@@ -84,7 +84,7 @@ Nenhum projeto é gigante.
 Todos são **cirúrgicos, diretos e didáticos**.
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="70%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
 </p>
 
 ---
@@ -97,7 +97,7 @@ Todos são **cirúrgicos, diretos e didáticos**.
 </p>
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="70%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
 </p>
 
 1. **Ver primeiro**, entender depois  
@@ -106,7 +106,7 @@ Todos são **cirúrgicos, diretos e didáticos**.
 4. Aprender criando **efeitos visualmente impressionantes**
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="70%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
 </p>
 
 ---
@@ -124,7 +124,7 @@ Todos são **cirúrgicos, diretos e didáticos**.
 </p>
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="70%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
 </p>
 
 ---
@@ -142,7 +142,7 @@ Se você gosta de:
 Então o **SantsCoder Labs** é o seu lugar.
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="70%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
 </p>
 
 ---
@@ -156,7 +156,18 @@ Então o **SantsCoder Labs** é o seu lugar.
 - **YouTube (SantsCoder):** https://youtube.com/@santscoder404  
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="70%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
+</p>
+
+---
+
+<h2 align="center">🧭 Bem-vindo ao laboratório.</h2>
+<p align="center">
+  Crie, experimente, dê vida ao código — o próximo microprojeto já está quase nascendo.
+</p>
+
+<p align="center">
+  <img src="URL-FINAL-GLITCH" alt="Glitch Footer" width="70%" />
 </p>
 
 ---
