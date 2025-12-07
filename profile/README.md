@@ -1,6 +1,6 @@
 <p align="center">
   <!-- BANNER PRINCIPAL -->
-  <img src="URL-DO-SEU-BANNER-AQUI" alt="SantsCoder404 Banner" width="100%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/banner-santscoder.png" alt="SantsCoder404 Banner" width="100%" />
 </p>
 
 ---
