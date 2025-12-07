@@ -19,7 +19,7 @@
 
 ---
 
-## 🔥 O que é o SantsCoder Labs?
+## ➤ O que é o SantsCoder Labs?
 
 O **laboratório oficial do SantsCoder** — onde estética, simplicidade e técnica se encontram.
 
@@ -46,15 +46,15 @@ Aqui cada microprojeto é:
 
 ---
 
-## 📚 Biblioteca de Projetos
+## ➤ Biblioteca de Projetos
 
 Uma coleção em expansão de microprojetos feitos para inspirar e ensinar:
 
-- 🟥 **Red Digital Waveform**
-- 🟣 **Glitch Circle Pulse**
-- 🟩 **Matrix Rain Animation**
-- 🟥 **Red Glitch Text**
-- 🟡 `Orbit Loader`, `Typing Effects`, `Pixel Experiments` e mais...
+-  **Red Digital Waveform**
+-  **Glitch Circle Pulse**
+-  **Matrix Rain Animation**
+-  **Red Glitch Text**
+-  `Orbit Loader`, `Typing Effects`, `Pixel Experiments` e mais...
 
 <p align="center">
   <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
@@ -71,7 +71,7 @@ Uma coleção em expansão de microprojetos feitos para inspirar e ensinar:
 
 ---
 
-## 🎯 Propósito do Laboratório
+## ➤ Propósito do Laboratório
 
 O Labs existe para entregar:
 
@@ -89,7 +89,7 @@ Todos são **cirúrgicos, diretos e didáticos**.
 
 ---
 
-## 🧩 Metodologia SantsCoder
+## ➤ Metodologia SantsCoder
 
 <p align="center">
   <img src="https://github.com/santscoder-labs/assets/blob/main/template-1.png" 
@@ -111,7 +111,7 @@ Todos são **cirúrgicos, diretos e didáticos**.
 
 ---
 
-## 🧪 Tecnologias Utilizadas
+## ➤ Tecnologias Utilizadas
 
 - HTML  
 - CSS  
@@ -129,7 +129,7 @@ Todos são **cirúrgicos, diretos e didáticos**.
 
 ---
 
-## 🚀 Para Criadores e Estudantes
+## ➤ Para Criadores e Estudantes
 
 Se você gosta de:
 
@@ -147,7 +147,7 @@ Então o **SantsCoder Labs** é o seu lugar.
 
 ---
 
-## 🔗 Links Importantes
+## ➤ Links Importantes
 
 <p align="center">
   <img src="https://github.com/santscoder-labs/assets/blob/main/inscreva-se.png" width="60%" />
@@ -161,22 +161,16 @@ Então o **SantsCoder Labs** é o seu lugar.
 
 ---
 
-<h2 align="center">🧭 Bem-vindo ao laboratório.</h2>
+<h2 align="center"> ➤ Bem-vindo ao laboratório.</h2>
 <p align="center">
   Crie, experimente, dê vida ao código — o próximo microprojeto já está quase nascendo.
 </p>
 
 <p align="center">
-  <img src="URL-FINAL-GLITCH" alt="Glitch Footer" width="70%" />
-</p>
-
----
-
-<h2 align="center">🧭 Bem-vindo ao laboratório.</h2>
-<p align="center">
-  Crie, experimente, dê vida ao código — o próximo microprojeto já está quase nascendo.
+  <img src="https://github.com/santscoder-labs/assets/blob/main/gif-santscoder.gif" alt="Glitch Footer" width="60%" />
 </p>
 
 <p align="center">
-  <img src="URL-FINAL-GLITCH" alt="Glitch Footer" width="70%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
 </p>
+
