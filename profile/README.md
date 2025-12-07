@@ -5,7 +5,7 @@
 
 ---
 
-# <p align="center">🟥 SantsCoder Labs</p>
+# <p align="center">SantsCoder Labs</p>
 <p align="center">Microprojetos visuais, animações intuitivas e experimentos criativos em HTML, CSS e JavaScript.</p>
 
 <p align="center">
