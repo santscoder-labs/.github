@@ -62,7 +62,7 @@ Todos são **cirúrgicos, elegantes e didáticos**.
 ## 🧩 Metodologia SantsCoder
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/template-1.png" alt="Glitch Bar" width="50%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/template-1.png" alt="Glitch Bar" width="60%" />
 </p>
 
 1. **Ver primeiro**, entender depois  
