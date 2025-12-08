@@ -19,53 +19,83 @@
   <img src="https://github.com/santscoder-labs/assets/blob/main/template-2.png" width="80%" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
+</p>
+
 ---
 
 ## ➤ O que é o SantsCoder Labs?
 
 ### **PT-BR:**  
-O laboratório oficial do SantsCoder — onde estética, simplicidade e técnica se encontram.
+O **laboratório oficial do SantsCoder** — onde estética, simplicidade e técnica se encontram.
 
-Cada microprojeto é:
+Aqui cada microprojeto é:
+
 - Minimalista  
 - Visualmente marcante  
 - Rápido de entender  
 - Focado em impacto visual  
-- Projetado para ensinar Front-End de forma intuitiva
+- Projetado para ensinar Front-End de forma intuitiva  
 
 ### **EN:**  
-The official SantsCoder laboratory — where aesthetics, simplicity, and technique meet.
+The **official SantsCoder laboratory** — where aesthetics, simplicity, and technique meet.
 
-Each micro-project is:
+Every micro-project here is:
+
 - Minimalistic  
 - Visually striking  
 - Quick to understand  
 - Focused on visual impact  
-- Designed to teach Front-End intuitively
+- Designed to teach Front-End intuitively  
+
+<p align="center">
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/santscoder-labs/assets/blob/main/glitch.gif" 
+       alt="Glitch Animation" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
+</p>
 
 ---
 
 ## ➤ Biblioteca de Projetos
 
 ### **PT-BR:**  
-Uma coleção crescente de microprojetos feitos para inspirar e ensinar:
+Uma coleção em expansão de microprojetos feitos para inspirar e ensinar:
 
-- Red Digital Waveform  
-- Glitch Circle Pulse  
-- Matrix Rain Animation  
-- Red Glitch Text  
-- Orbit Loader, Typing Effects, Pixel Experiments e mais...
+- **Red Digital Waveform**  
+- **Glitch Circle Pulse**  
+- **Matrix Rain Animation**  
+- **Red Glitch Text**  
+- `Orbit Loader`, `Typing Effects`, `Pixel Experiments` e mais…  
 
 ### **EN:**  
-A growing collection of micro-projects built to inspire and teach:
+An expanding collection of micro-projects made to inspire and teach:
 
-- Red Digital Waveform  
-- Glitch Circle Pulse  
-- Matrix Rain Animation  
-- Red Glitch Text  
-- Orbit Loader, Typing Effects, Pixel Experiments, and more...
+- **Red Digital Waveform**  
+- **Glitch Circle Pulse**  
+- **Matrix Rain Animation**  
+- **Red Glitch Text**  
+- `Orbit Loader`, `Typing Effects`, `Pixel Experiments`, and more…  
 
-<p align="center"> <img src="https://github.com/santscoder-labs/assets/blob/main/glitch.gif" alt="Glitch Animation" width="80%" /> </p>
+<p align="center">
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/santscoder-labs/assets/blob/main/divider.gif" 
+       alt="Divider Animation" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
+</p>
 
 ---
 
@@ -79,7 +109,8 @@ O Labs existe para entregar:
 - Criatividade acima da complexidade  
 - Código simples → impacto alto  
 
-Nenhum projeto é gigante. Todos são cirúrgicos, diretos e didáticos.
+Nenhum projeto é gigante.  
+Todos são cirúrgicos, diretos e didáticos.
 
 ### **EN:**  
 The Labs exists to deliver:
@@ -89,7 +120,12 @@ The Labs exists to deliver:
 - Creativity over complexity  
 - Simple code → high impact  
 
-No project is large. All are precise, direct, and educational.
+No project is large.  
+All are precise, direct, and educational.
+
+<p align="center">
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
+</p>
 
 ---
 
@@ -98,6 +134,10 @@ No project is large. All are precise, direct, and educational.
 <p align="center">
   <img src="https://github.com/santscoder-labs/assets/blob/main/template-1.png" 
        alt="Glitch Bar" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
 </p>
 
 ### **PT-BR:**  
@@ -111,6 +151,10 @@ No project is large. All are precise, direct, and educational.
 2. Minimal code, maximum effect  
 3. No barriers: anyone can reproduce  
 4. Learn by creating visually impressive effects  
+
+<p align="center">
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
+</p>
 
 ---
 
@@ -126,6 +170,10 @@ No project is large. All are precise, direct, and educational.
   <img src="https://github.com/santscoder-labs/assets/blob/main/projects.png" width="60%" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
+</p>
+
 ---
 
 ## ➤ Para Criadores e Estudantes
@@ -139,7 +187,7 @@ Se você gosta de:
 ✔ código curto  
 ✔ aprender criando  
 
-Então o SantsCoder Labs é o seu lugar.
+Então o **SantsCoder Labs** é o seu lugar.
 
 ### **EN:**  
 If you enjoy:
@@ -147,16 +195,28 @@ If you enjoy:
 ✔ automatic animations  
 ✔ red glitch aesthetics  
 ✔ modern visual effects  
-✔ short clean code  
+✔ short, clean code  
 ✔ learning by creating  
 
-Then SantsCoder Labs is for you.
+Then **SantsCoder Labs** is your place.
+
+<p align="center">
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
+</p>
 
 ---
 
 ## ➤ Links Importantes
 
+<p align="center">
+  <img src="https://github.com/santscoder-labs/assets/blob/main/inscreva-se.png" width="60%" />
+</p>
+
 - **YouTube (SantsCoder):** https://youtube.com/@santscoder404  
+
+<p align="center">
+  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
+</p>
 
 ---
 
