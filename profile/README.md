@@ -65,6 +65,8 @@ A growing collection of micro-projects built to inspire and teach:
 - Red Glitch Text  
 - Orbit Loader, Typing Effects, Pixel Experiments, and more...
 
+<p align="center"> <img src="https://github.com/santscoder-labs/assets/blob/main/glitch.gif" alt="Glitch Animation" width="80%" /> </p>
+
 ---
 
 ## ➤ Propósito do Laboratório
