@@ -19,10 +19,6 @@
   <img src="https://github.com/santscoder-labs/assets/blob/main/template-2.png" width="80%" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
-</p>
-
 ---
 
 ## ➤ O que é o SantsCoder Labs?
@@ -50,16 +46,8 @@ Every micro-project here is:
 - Designed to teach Front-End intuitively  
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://github.com/santscoder-labs/assets/blob/main/glitch.gif" 
        alt="Glitch Animation" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
 </p>
 
 ---
@@ -85,16 +73,8 @@ An expanding collection of micro-projects made to inspire and teach:
 - `Orbit Loader`, `Typing Effects`, `Pixel Experiments`, and more…  
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://github.com/santscoder-labs/assets/blob/main/divider.gif" 
        alt="Divider Animation" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
 </p>
 
 ---
@@ -123,10 +103,6 @@ The Labs exists to deliver:
 No project is large.  
 All are precise, direct, and educational.
 
-<p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
-</p>
-
 ---
 
 ## ➤ Metodologia SantsCoder
@@ -134,10 +110,6 @@ All are precise, direct, and educational.
 <p align="center">
   <img src="https://github.com/santscoder-labs/assets/blob/main/template-1.png" 
        alt="Glitch Bar" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
 </p>
 
 ### **PT-BR:**  
@@ -170,10 +142,6 @@ All are precise, direct, and educational.
   <img src="https://github.com/santscoder-labs/assets/blob/main/projects.png" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
-</p>
-
 ---
 
 ## ➤ Para Criadores e Estudantes
@@ -200,10 +168,6 @@ If you enjoy:
 
 Then **SantsCoder Labs** is your place.
 
-<p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
-</p>
-
 ---
 
 ## ➤ Links Importantes
@@ -213,10 +177,6 @@ Then **SantsCoder Labs** is your place.
 </p>
 
 - **YouTube (SantsCoder):** https://youtube.com/@santscoder404  
-
-<p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
-</p>
 
 ---
 
