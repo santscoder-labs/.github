@@ -124,10 +124,6 @@ All are precise, direct, and educational.
 3. No barriers: anyone can reproduce  
 4. Learn by creating visually impressive effects  
 
-<p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
-</p>
-
 ---
 
 ## ➤ Tecnologias Utilizadas
