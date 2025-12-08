@@ -21,7 +21,7 @@
 
 ---
 
-## ➤ O que é o SantsCoder Labs?
+## ➤ O que é o SantsCoder Labs? / What is SantsCoder Labs??
 
 ### **PT-BR:**  
 O **laboratório oficial do SantsCoder** — onde estética, simplicidade e técnica se encontram.
@@ -52,7 +52,7 @@ Every micro-project here is:
 
 ---
 
-## ➤ Biblioteca de Projetos
+## ➤ Biblioteca de Projetos / Project Library
 
 ### **PT-BR:**  
 Uma coleção em expansão de microprojetos feitos para inspirar e ensinar:
@@ -79,7 +79,7 @@ An expanding collection of micro-projects made to inspire and teach:
 
 ---
 
-## ➤ Propósito do Laboratório
+## ➤ Propósito do Laboratório / Purpose of the Laboratory
 
 ### **PT-BR:**  
 O Labs existe para entregar:
@@ -105,7 +105,7 @@ All are precise, direct, and educational.
 
 ---
 
-## ➤ Metodologia SantsCoder
+## ➤ Metodologia SantsCoder / SantsCoder Methodology
 
 <p align="center">
   <img src="https://github.com/santscoder-labs/assets/blob/main/template-1.png" 
@@ -126,7 +126,7 @@ All are precise, direct, and educational.
 
 ---
 
-## ➤ Tecnologias Utilizadas
+## ➤ Tecnologias Utilizadas / Technologies Used
 
 - HTML  
 - CSS  
@@ -140,7 +140,7 @@ All are precise, direct, and educational.
 
 ---
 
-## ➤ Para Criadores e Estudantes
+## ➤ Para Criadores e Estudantes / For Creators and Students
 
 ### **PT-BR:**  
 Se você gosta de:
@@ -166,7 +166,7 @@ Then **SantsCoder Labs** is your place.
 
 ---
 
-## ➤ Links Importantes
+## ➤ Links Importantes / Important Links
 
 <p align="center">
   <img src="https://github.com/santscoder-labs/assets/blob/main/inscreva-se.png" width="60%" />
