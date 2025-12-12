@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/Banner-Youtube.png" 
+  <img src="https://github.com/santscoder-labs/assets/blob/main/SantsCoder-Labs.png" 
        alt="SantsCoder404 Banner" width="100%" />
 </p>
 
