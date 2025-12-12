@@ -3,10 +3,6 @@
        alt="SantsCoder404 Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
-</p>
-
 <h1 align="center">SantsCoder Labs</h1>
 
 <p align="center">
@@ -187,8 +183,4 @@ Then **SantsCoder Labs** is your place.
 <p align="center">
   <img src="https://github.com/santscoder-labs/assets/blob/main/gif-santscoder.gif" 
        alt="Glitch Footer" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
 </p>
