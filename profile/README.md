@@ -103,11 +103,6 @@ All are precise, direct, and educational.
 
 ## ➤ Metodologia SantsCoder / SantsCoder Methodology
 
-<p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/template-1.png" 
-       alt="Glitch Bar" width="80%" />
-</p>
-
 ### **PT-BR:**  
 1. Ver primeiro, entender depois  
 2. Código mínimo, efeito máximo  
