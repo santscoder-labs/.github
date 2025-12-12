@@ -165,7 +165,7 @@ Then **SantsCoder Labs** is your place.
 ## ➤ Links Importantes / Important Links
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/inscreva-se.png" width="60%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/subscribe.png" width="60%" />
 </p>
 
 - **YouTube (SantsCoder):** https://youtube.com/@santscoder404  
