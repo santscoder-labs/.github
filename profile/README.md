@@ -131,7 +131,7 @@ All are precise, direct, and educational.
 - Keyframes, transforms & looping animations  
 
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/projects.png" width="60%" />
+  <img src="https://github.com/santscoder-labs/assets/blob/main/tecnologias-usadas.png" width="60%" />
 </p>
 
 ---
