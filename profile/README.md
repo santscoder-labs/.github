@@ -11,10 +11,6 @@
   <b>EN:</b> Visual micro-projects, intuitive animations, and creative experiments built with HTML, CSS, and JavaScript.
 </p>
 
-<p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/template-2.png" width="80%" />
-</p>
-
 ---
 
 ## ➤ O que é o SantsCoder Labs? / What is SantsCoder Labs??
